@@ -15,16 +15,16 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(VancedFlix) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 9.0.2</br>
+<br>- Version: 9.0.3</br>
 <br>- Size: 13.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- downloading movies / tv shows added.</br>
 <br>- Add links.</br>",  
-"update_build":"159",  
-"update_version":"9.0.2",  
-"update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_v9.0.2.apk",  
-"update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_v9.0.2.apk",
+"update_build":"160",  
+"update_version":"9.0.3",  
+"update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_V903.apk",  
+"update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_V903.apk",
 "pkg_uninstall":"com.busydev.audiocutter",  
 "link_downloader":"https://github.com/ysnlek/st/raw/main/VLoader_v1.96.apk",
 "pkg_uninstall_247":"com.one.downloader",
