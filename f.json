@@ -60,7 +60,7 @@
 "description_player":"Best player to work with VancedFlix. For better streaming!",
 "link_download_player":"https://github.com/ysnlek/VIPL/raw/main/VIPLayer_v8.0.8.apk",
 "package_name_player":"com.vx.video.player",
-"package_name_player_new":"VIPLayer.html",
+"package_name_player_new":"com.vx.video.player",
 "force_playernew_directlink":true,
 "title_player_new":"VIPLayer",
 "description_player_new":"Please Install VIPLayer And Start Streaming",
