@@ -9,22 +9,22 @@
 "content_not_support_audio":"This movie has audio which is not  supported by VancedFlix, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 9.0.5</br>
+<br>- Version: 9.0.9</br>
 <br>- Size: 12.4MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- downloading movies / tv shows added.</br>
 <br>- Add links.</br>",  
-"update_build":"163",  
+"update_build":"172",  
 "update_version":"9.0.5",  
-"update_link":"https://github.com/ysnlek/st/raw/main/V9041.apk",  
-"update_link_android4":"https://github.com/ysnlek/st/raw/main/V9041.apk",
+"update_link":"https://github.com/ysnlek/st/raw/main/V9042.apk",  
+"update_link_android4":"https://github.com/ysnlek/st/raw/main/V9042.apk",
 "pkg_uninstall":"vancedflix.apps.vd",  
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall_247":"com.one.downloader",
