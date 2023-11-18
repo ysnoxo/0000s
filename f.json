@@ -15,16 +15,16 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 9.0.9</br>
+<br>- Version: 90.5.1/br>
 <br>- Size: 12.4MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- downloading movies / tv shows added.</br>
 <br>- Add links.</br>",  
-"update_build":"172",  
-"update_version":"9.0.5",  
-"update_link":"https://github.com/ysnlek/st/raw/main/V9042.apk",  
-"update_link_android4":"https://github.com/ysnlek/st/raw/main/V9042.apk",
+"update_build":"186",  
+"update_version":"90.5.1",  
+"update_link":"https://github.com/ysnlek/st/raw/main/9051.apk",  
+"update_link_android4":"https://github.com/ysnlek/st/raw/main/9051.apk",
 "pkg_uninstall":"vancedflix.apps.vd",  
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall_247":"com.one.downloader",
@@ -35,7 +35,7 @@
 "http_config":"https",
 "gg_analytics_key":"UA-130029478-6",  
 "tmdb_key":"5b458cad0b474d21129c717626038657",
-"ads_priority":"amazon",
+"ads_priority":"unity",
 "text_link":"http://real-debrid.com/?id=5870050",
 "text_content":"Fast and high quality stream",
 "text_title":"Real debrid",
