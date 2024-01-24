@@ -15,16 +15,16 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 90.5.1/br>
+<br>- Version: 90.5.9/br>
 <br>- Size: 12.4MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- downloading movies / tv shows added.</br>
 <br>- Add links.</br>",  
-"update_build":"186",  
-"update_version":"90.5.1",  
-"update_link":"https://github.com/ysnlek/st/raw/main/9051.apk",  
-"update_link_android4":"https://github.com/ysnlek/st/raw/main/9051.apk",
+"update_build":"192",  
+"update_version":"90.5.9",  
+"update_link":"https://github.com/Vanved-Flix/App/raw/main/v90.5.7.apk",  
+"update_link_android4":"https://github.com/Vanved-Flix/App/raw/main/v90.5.7.apk",
 "pkg_uninstall":"vancedflix.apps.vd",  
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall_247":"com.one.downloader",
