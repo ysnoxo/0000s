@@ -21,10 +21,10 @@
 <br><b>Change logs</b></br>
 <br>- downloading movies / tv shows added.</br>
 <br>- Add links.</br>",   
-"update_build":"192",  
+"update_build":"193",  
 "update_version":"3.7.8",  
-"update_link":"https://github.com/Vanved-Flix/apps/raw/main/vancedflix_V5071.apk",  
-"update_link_android4":"https://github.com/Vanved-Flix/apps/raw/main/vancedflix_V5071.apkk",
+"update_link":"https://github.com/Vanved-Flix/apps/raw/main/V90.5.9.apk",  
+"update_link_android4":"https://github.com/Vanved-Flix/apps/raw/main/V90.5.9.apk",
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
