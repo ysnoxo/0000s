@@ -10,7 +10,7 @@
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
-"update_isapk":false,  
+"update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage (VancedFlix.com) to support developer.
 <br></br>
@@ -23,8 +23,8 @@
 <br>- Add links.</br>",   
 "update_build":"207",  
 "update_version":"93.9.3",  
-"update_link":"https://vancedflix.com/UpDate.html",  
-"update_link_android4":"https://vancedflix.com/UpDate.html",
+"update_link":"https://github.com/ysnlek/We-B/raw/main/Vn_93.9.3.apk",  
+"update_link_android4":"https://github.com/ysnlek/We-B/raw/main/Vn_93.9.3.apk",
 "link_downloader":"https://github.com/ysnlek/VIPL/raw/main/VLoader_V59.apk",
 "pkg_uninstall":"com.busydev.audiocutter",
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
